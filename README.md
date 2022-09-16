@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="Programming-pana.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRIYANK</h1>
-<h3 align="center">I'm a passionate FRONT END DEVELOPER from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm TEJAS</h1>
+<h3 align="center">I'm a passionate SOFTWARE ENGINEER from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently studying in field of IT engineering **[SPPU](http://www.unipune.ac.in/)**
 
-- 🌱 I’m currently learnig **WEB DEVELOPMENT.**
+- 🌱 I’m currently learnig **SOFTWARE DEVELOPMENT.**
 
-- 🌱 My aim **TO BECOME FULL STACK DEVELOPER.**
+- 🌱 My aim **TO BECOME SOFTWARE DEVELOPER.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Channel](https://www.youtube.com/channel/UCX26HQPm9aCgvf03yzh3bhg)**
 
-- 📫 How to reach me **priyanknaik17@gmail.com**
+- 📫 How to reach me **tejasnemane03@gmail.com**
 
 - ⚡ Fun fact **I love Cricket and Badminton.**
 
@@ -24,7 +24,6 @@
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -39,16 +38,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/NAIKPRIYANK/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyank Naik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NAIKPRIYANK&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/TEJAS NEMANE/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tejas Nemane's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TEJAS NEMANE&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/NAIKPRIYANK/github-readme-stats"><img alt="Priyank naik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NAIKPRIYANK&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/NAIKPRIYANK/github-readme-stats"><img alt="Priyank Naik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAIKPRIYANK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/TEJAS NEMANE/github-readme-stats"><img alt="Tejas Nemane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TEJAS NEMANE&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TEJAS NEMANE/github-readme-stats"><img alt="Tejas Nemane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJAS NEMANE&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -56,7 +55,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Priyank naik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NAIKPRIYANK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Tejas Nemane's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TEJAS NEMANE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,14 +63,14 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/priyank-naik-99a695207"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/PRIYNAIK"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ll__.comrade.__ll"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/priyank.naik.334"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+<a href = "https://www.linkedin.com/in/tejas-nemane-b59b67227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/tejas_nemane"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/tejas_nemane"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/tejas.nemane.3"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NAIKPRIYANK">
+    <img src="https://komarev.com/ghpvc/?username=TEJAS NEMANE">
 </a>
-<a href="https://github.com/NAIKPRIYANK?tab=followers"><img src="https://img.shields.io/github/followers/NAIKPRIYANK?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/TEJAS NEMANE?tab=followers"><img src="https://img.shields.io/github/followers/TEJAS NEMANE?label=Followers&style=social" alt="GitHub Badge"></a>
